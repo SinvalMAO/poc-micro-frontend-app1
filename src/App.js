@@ -41,7 +41,7 @@ const Home = () => (
     <p>
       The approach is to split the browser-based code into micro front-ends by
       breaking down application features. By making smaller and feature-centered
-      codebases, we achieve the software development goal of decoupling.
+      codebases, we achieve the software development goal of decoupling.asdasdasdasdasdasd
     </p>
     <p>
       Although the codebases are decoupled, the user experiences are coherent.
